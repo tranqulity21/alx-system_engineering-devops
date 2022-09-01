@@ -1,1 +1,1 @@
-prints all groups current user is part of
+change file owner

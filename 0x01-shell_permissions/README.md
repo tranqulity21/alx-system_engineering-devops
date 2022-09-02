@@ -1,1 +1,1 @@
-execute permission for user
+permission to owner,group,others

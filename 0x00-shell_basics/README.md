@@ -1,1 +1,1 @@
-script for pwd
+long listing

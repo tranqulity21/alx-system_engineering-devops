@@ -1,1 +1,1 @@
-permission to owner,group,others
+execution permission to everyone

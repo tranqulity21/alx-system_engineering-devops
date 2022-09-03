@@ -1,1 +1,1 @@
-back to previous directory
+list parent and current working directory

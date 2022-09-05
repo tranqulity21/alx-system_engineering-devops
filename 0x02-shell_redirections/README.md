@@ -1,1 +1,1 @@
-last 10 lines of a file
+print first 10 lines of a file

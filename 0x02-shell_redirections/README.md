@@ -1,1 +1,1 @@
-diplays 10 newest files in the cd
+prints words that appear only once

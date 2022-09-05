@@ -1,1 +1,1 @@
-counts directories and sub directories in cd but without parent and current directory
+diplays 10 newest files in the cd

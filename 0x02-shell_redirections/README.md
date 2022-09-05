@@ -1,1 +1,1 @@
-display lines that don't contain pattern bin
+display all lines of the file,starting with letters

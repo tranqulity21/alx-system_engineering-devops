@@ -1,1 +1,1 @@
-Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+display lines that don't contain pattern bin

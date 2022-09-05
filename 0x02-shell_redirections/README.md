@@ -1,1 +1,1 @@
-script to print out contents of a file
+display contents of 2 files

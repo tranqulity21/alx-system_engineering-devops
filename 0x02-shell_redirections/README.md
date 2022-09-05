@@ -1,1 +1,1 @@
-file name with special characters 
+save current state of directory in another file

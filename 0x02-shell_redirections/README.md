@@ -1,1 +1,1 @@
-prints words that appear only once
+display files that contain the pattern root frm file /etc/passwd

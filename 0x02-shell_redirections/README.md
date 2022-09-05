@@ -1,1 +1,1 @@
-display files that contain the pattern root frm file /etc/passwd
+display the number of lines that contain the pattern bin in the file /etc/passwd

@@ -1,1 +1,1 @@
-script lists environment variables
+local variables

@@ -1,1 +1,1 @@
-ad directory to a path
+counts number of directories in path

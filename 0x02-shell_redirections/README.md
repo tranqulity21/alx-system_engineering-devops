@@ -1,1 +1,1 @@
-display all lines of the file,starting with letters
+Replace all characters A and c from input to Z and e respectively 

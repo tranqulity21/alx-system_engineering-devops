@@ -1,1 +1,1 @@
-print current user
+ad directory to a path

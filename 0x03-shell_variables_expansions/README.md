@@ -1,1 +1,1 @@
-task 13 
+all combinations

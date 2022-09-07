@@ -1,1 +1,1 @@
-script that displays the result of p/l
+ script that converts a number from base 2 to base 10
